@@ -1,1 +1,1 @@
-# testing to ensure a platform for learinhg
+# testing to ensure a platform for learning
